@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.5.2)  2 MAY 2011 17:30
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.5.2)  2 MAY 2011 23:48
 entering extended mode
  %&-line parsing enabled.
 **relatorio.tex
 (./relatorio.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, loaded.
+yphenation, portuguese, loaded.
 (/usr/share/texmf-texlive/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texmf-texlive/tex/latex/base/size10.clo
@@ -284,21 +284,34 @@ File: pdftex.def 2009/08/25 v0.04m Graphics/color for pdfTeX
 ))
 \Gin@req@height=\dimen107
 \Gin@req@width=\dimen108
-) (./relatorio.aux)
+)
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count91
+\U@D=\dimen109
+)
+Package babel Info: Making " an active character on input line 145.
+)) (./relatorio.aux)
 \openout1 = `relatorio.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 
 *geometry auto-detecting driver*
 *geometry detected driver: pdftex*
@@ -343,49 +356,48 @@ driver: pdftex
 -----------------------
 (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count91
-\scratchdimen=\dimen109
+\scratchcounter=\count92
+\scratchdimen=\dimen110
 \scratchbox=\box26
-\nofMPsegments=\count92
-\nofMParguments=\count93
+\nofMPsegments=\count93
+\nofMParguments=\count94
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count94
-\MPscratchDim=\dimen110
-\MPnumerator=\count95
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen111
+\MPnumerator=\count96
 \everyMPtoPDFconversion=\toks19
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 27.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 30.
  (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
 
 <layout_inversor.png, id=1, 360.34625pt x 997.7275pt>
 File: layout_inversor.png Graphic file (type png)
 
 <use layout_inversor.png> [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./layout_inversor.png>]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 47.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 47.
- <layout_buffer.png, id=12, 1316.92pt x 874.26625pt>
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./layout_inversor.png>] <l
+ayout_buffer.png, id=16, 1316.92pt x 874.26625pt>
 File: layout_buffer.png Graphic file (type png)
 
-<use layout_buffer.png> <DRC_buffer.png, id=13, 991.705pt x 1156.32pt>
+<use layout_buffer.png> <DRC_buffer.png, id=17, 991.705pt x 162.6075pt>
 File: DRC_buffer.png Graphic file (type png)
 
 <use DRC_buffer.png> [2 <./layout_buffer.png>]
-<esquematico_buffer.png, id=21, 1495.5875pt x 850.17625pt>
+<esquematico_buffer.png, id=23, 1495.5875pt x 850.17625pt>
 File: esquematico_buffer.png Graphic file (type png)
 
-<use esquematico_buffer.png>
-<LVS_buffer.png, id=22, 1598.97375pt x 1160.335pt>
+<use esquematico_buffer.png> <LVS_buffer.png, id=24, 742.775pt x 140.525pt>
 File: LVS_buffer.png Graphic file (type png)
- <use LVS_buffer.png>
-<extraido_buffer.png, id=23, 1440.38126pt x 935.495pt>
+
+<use LVS_buffer.png> <extraido_buffer.png, id=25, 1440.38126pt x 935.495pt>
 File: extraido_buffer.png Graphic file (type png)
 
 <use extraido_buffer.png>
@@ -393,54 +405,56 @@ File: extraido_buffer.png Graphic file (type png)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [3 <./DRC_buffer.png> <./esquematico_buffer.png> <./LVS_buffer.png>]
-<teste_buffer.png, id=30, 1308.89pt x 816.04875pt>
+<teste_buffer.png, id=32, 1308.89pt x 816.04875pt>
 File: teste_buffer.png Graphic file (type png)
  <use teste_buffer.png>
-<DC_Buffer.png, id=31, 1606.0pt x 1051.93pt>
+<DC_Buffer.png, id=33, 1606.0pt x 1051.93pt>
 File: DC_Buffer.png Graphic file (type png)
  <use DC_Buffer.png>
-<Trans_HL.png, id=32, 1606.0pt x 1051.93pt>
+<Trans_HL.png, id=34, 1606.0pt x 1051.93pt>
 File: Trans_HL.png Graphic file (type png)
  <use Trans_HL.png>
-<Trans_LH.png, id=33, 1606.0pt x 1051.93pt>
+<Trans_LH.png, id=35, 1606.0pt x 1051.93pt>
 File: Trans_LH.png Graphic file (type png)
  <use Trans_LH.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Trans_rise.png, id=34, 1606.0pt x 1051.93pt>
+<Trans_rise.png, id=36, 1606.0pt x 1051.93pt>
 File: Trans_rise.png Graphic file (type png)
  <use Trans_rise.png>
-<Trans_fall.png, id=35, 1606.0pt x 1051.93pt>
+<Trans_fall.png, id=37, 1606.0pt x 1051.93pt>
 File: Trans_fall.png Graphic file (type png)
  <use Trans_fall.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [4 <./extraido_buffer.png> <./teste_buffer.png> <./DC_Buffer.png (PNG copy)>]
-<Corrente.png, id=41, 1606.0pt x 1051.93pt>
+<Corrente.png, id=43, 1606.0pt x 1051.93pt>
 File: Corrente.png Graphic file (type png)
  <use Corrente.png> [5 <./Trans_HL.png (PNG copy)> <./Trans_LH.png (PNG copy)> 
 <./Trans_rise.png (PNG copy)> <./Trans_fall.png (PNG copy)> <./Corrente.png (PN
 G copy)>] (./relatorio.aux) ) 
 Here is how much of TeX's memory you used:
- 1591 strings out of 495061
- 20388 string characters out of 1182622
- 75719 words of memory out of 3000000
- 4781 multiletter control sequences out of 15000+50000
- 4899 words of font info for 18 fonts, out of 3000000 for 9000
- 28 hyphenation exceptions out of 8191
- 25i,12n,19p,592b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 1924 strings out of 495041
+ 24396 string characters out of 1181898
+ 83376 words of memory out of 3000000
+ 5108 multiletter control sequences out of 15000+50000
+ 5617 words of font info for 20 fonts, out of 3000000 for 9000
+ 30 hyphenation exceptions out of 8191
+ 25i,12n,24p,578b,249s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfo
 nts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx
-12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
-r/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texm
-f-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/p
-ublic/amsfonts/cm/cmti10.pfb>
-Output written on relatorio.pdf (5 pages, 713280 bytes).
+12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></
+usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/t
+exmf-texlive/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-texlive
+/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsf
+onts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on relatorio.pdf (5 pages, 572636 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
+ 79 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
